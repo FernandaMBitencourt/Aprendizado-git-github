@@ -1,0 +1,12 @@
+Conectando ao GitHub
+
+Criar um repositório localmente
+Adicionar (add) e comitar (commit)
+Criar um repositório no GitHub
+Conectar o repositório local com o repositório público
+Sincronizar ambos os repositórios
+Antes de tudo, é preciso saber que Git não é GitHub.
+
+Git é um sistema distribuído de controle de versão de código.
+
+GitHub é o local onde você hospeda o seu Git na web.
