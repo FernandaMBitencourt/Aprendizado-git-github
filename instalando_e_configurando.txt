@@ -1,0 +1,9 @@
+
+Instalando o Git
+Na moral, pra instalar o Git no Windows não tem nada de mais. É só baixar o executável aqui e fazer aquele famoso processo que já conhecemos: next, next e finish. As opções padrão são o que você precisa para começar.
+
+Configurando o Github
+Depois de ter instalado o Git, vá até o site do Github e se cadastre. Na hora de se cadastrar o site vai te oferecer uns planos pagos. A diferença básica é que nos planos pagos você pode ter repositórios privados, coisa que não temos no gratuito.
+
+Mas beleza, depois de se cadastrar precisamos configurar o Git da sua máquina pra trabalhar com o Github.
+
