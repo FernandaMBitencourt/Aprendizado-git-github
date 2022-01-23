@@ -1,1 +1,1 @@
-Projeto aprendendo Git-GitHub para me tornar uma programadora Javascript Fullstack.
+Project learning Git-GitHub to become a Javascript Fullstack programmer.
